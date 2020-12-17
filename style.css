@@ -1,0 +1,44 @@
+h1 {
+    color: rgb(202, 141, 84);
+}
+
+
+.header img{
+border: 20px solid black;
+border-radius: 50px;    
+}
+.abcd *{
+    padding: 5px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    margin: 0px;
+    width: 600;
+    font-family: fantasy;
+}
+
+.z{
+    background-color: rgb(84, 86, 202);
+    margin-bottom: 10px;
+}
+.group2 {
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: white;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-around;
+    background-color: #000000;
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+
